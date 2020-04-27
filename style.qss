@@ -1,0 +1,6 @@
+QLabel {
+    font-size: 15px;
+}
+#result {
+    font-size: 30px;
+}
